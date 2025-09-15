@@ -1,0 +1,5 @@
+{
+  "name": "Sociopath Test",
+  "description": "An educational web application offering a multiple-choice quiz to explore traits sometimes associated with sociopathy. It is designed for informational purposes only and does not provide a medical diagnosis.",
+  "requestFramePermissions": []
+}
